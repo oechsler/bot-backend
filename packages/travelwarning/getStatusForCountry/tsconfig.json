@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "esModuleInterop": true,
+    "importHelpers": true,
+    "module": "Node16",
+    "outDir": "out",
+    "rootDir": "src",
+    "target": "es2019"
+  },
+  "include": [
+    "src/**/*"
+  ]
+}

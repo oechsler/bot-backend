@@ -1,0 +1,5 @@
+packages:
+  - name: travelwarning
+    functions:
+      - name: getStatusForCountry
+        runtime: nodejs:default
